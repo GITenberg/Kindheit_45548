@@ -1,0 +1,27 @@
+_repo: Kindheit_45548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frank, Leonhard
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '34488'
+    url: http://www.gutenberg.org/2009/agents/34488
+description: ''
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45548'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+title: Kindheit
+url: http://www.gutenberg.org/ebooks/45548
